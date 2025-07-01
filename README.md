@@ -1,4 +1,4 @@
-# Dracula for [Better Canvas](https://www.bettercanvas.org)
+﻿# Dracula for [Better Canvas](https://www.bettercanvas.org)
 
 > A dark theme for [Better Canvas](https://www.bettercanvas.org)
 
@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/bettercanvas).
 
 ## Team
 

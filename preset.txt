@@ -1,0 +1,1 @@
+﻿{"dark_preset":{"background-0":"#1e1f29","background-1":"#282A36","background-2":"#282A36","borders":"#44475A","links":"#BD93F9","sidebar":"#282A36","sidebar-text":"#F8F8F2","text-0":"#F8F8F2","text-1":"#F8F8F2","text-2":"#aaabac"}}

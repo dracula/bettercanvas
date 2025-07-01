@@ -1,19 +1,9 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
+### [Better Canvas](https://www.bettercanvas.org)
 
 #### Install manually
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
+1. Copy the the text from [preset.txt](./preset.txt).
+2. Click on the Better Canvas extensions icon to get to the settings page.
+3. Click on Themes.
+4. Scroll to Import and paste the preset text in the text box.
 3. Boom! It's working ✨
