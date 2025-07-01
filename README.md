@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/bettercanvas).
+All instructions can be found at [draculatheme.com/bettercanvas](https://draculatheme.com/bettercanvas).
 
 ## Team
 
