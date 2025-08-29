@@ -1,6 +1,6 @@
-﻿# Dracula for [Better Canvas](https://www.bettercanvas.org)
+﻿# Dracula for [BetterCanvas](https://www.bettercanvas.org)
 
-> A dark theme for [Better Canvas](https://www.bettercanvas.org)
+> A dark theme for [BetterCanvas](https://www.bettercanvas.org)
 
 ![Screenshot](./screenshot.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/bettercanvas](https://dracula
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/bettercanvas/graphs/contributors).
 
 | [![Chocolate MILQ](https://github.com/chocolatemilq.png?size=100)](https://github.com/chocolatemilq) |
 | ---------------------------------------------------------------------------------------------------- |
